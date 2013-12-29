@@ -4,6 +4,7 @@ jsFiddles
 - binary-tree: 	http://jsfiddle.net/GRIFFnDOOR/T64NE/5/
 - queue: 		http://jsfiddle.net/GRIFFnDOOR/8drJJ/
 - stack:		http://jsfiddle.net/GRIFFnDOOR/97DrQ/
+- double-list:	http://jsfiddle.net/GRIFFnDOOR/vX54f/
 
 
 TODOS
