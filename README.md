@@ -5,6 +5,7 @@ jsFiddles
 - queue: 		http://jsfiddle.net/GRIFFnDOOR/8drJJ/
 - stack:		http://jsfiddle.net/GRIFFnDOOR/97DrQ/
 - double-list:	http://jsfiddle.net/GRIFFnDOOR/vX54f/
+- linked-list:	http://jsfiddle.net/GRIFFnDOOR/HN83j/
 
 
 TODOS
