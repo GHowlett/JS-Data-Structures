@@ -10,3 +10,4 @@ jsFiddles
 
 TODOS
 - Move the unit/behavioral testing out of the structure files and into a dedicated tests.js file
+- Create a base node object that every structure depends on and extends as needed 
